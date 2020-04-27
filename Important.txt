@@ -1,0 +1,12 @@
+1. First install nodejs and npm
+2.Install Vue.js dev tools for chrome
+3. install cli for vue 
+	vue install -g @vue/cli
+	vue --version => for checking the version of vue
+4. create a vue project
+	vue create <project-name>
+5.Run the project pn the server
+	cd <project-name>
+	npm run serve
+6.(optional) For getting vue GUI
+	vue ui
